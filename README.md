@@ -1,4 +1,4 @@
-# Default community health files
+# :toolbox: Default community health files
 
 Defaults community health files for all projects where not othrwise specified.
 
